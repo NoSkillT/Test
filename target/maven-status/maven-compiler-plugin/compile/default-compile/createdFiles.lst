@@ -1,0 +1,6 @@
+cl\duoc\librovivo\App.class
+cl\duoc\librovivo\Launcher.class
+cl\duoc\librovivo\model\Reservable.class
+cl\duoc\librovivo\model\Material.class
+cl\duoc\librovivo\model\AudioLibro.class
+cl\duoc\librovivo\model\Libro.class
